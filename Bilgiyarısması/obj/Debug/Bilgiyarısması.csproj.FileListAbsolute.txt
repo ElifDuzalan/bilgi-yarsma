@@ -1,0 +1,8 @@
+C:\Users\Victus\source\repos\Bilgiyarısması\Bilgiyarısması\bin\Debug\Bilgiyarısması.exe.config
+C:\Users\Victus\source\repos\Bilgiyarısması\Bilgiyarısması\bin\Debug\Bilgiyarısması.exe
+C:\Users\Victus\source\repos\Bilgiyarısması\Bilgiyarısması\bin\Debug\Bilgiyarısması.pdb
+C:\Users\Victus\source\repos\Bilgiyarısması\Bilgiyarısması\obj\Debug\Bilgiyarısması.csproj.AssemblyReference.cache
+C:\Users\Victus\source\repos\Bilgiyarısması\Bilgiyarısması\obj\Debug\Bilgiyarısması.csproj.SuggestedBindingRedirects.cache
+C:\Users\Victus\source\repos\Bilgiyarısması\Bilgiyarısması\obj\Debug\Bilgiyarısması.csproj.CoreCompileInputs.cache
+C:\Users\Victus\source\repos\Bilgiyarısması\Bilgiyarısması\obj\Debug\Bilgiyarısması.exe
+C:\Users\Victus\source\repos\Bilgiyarısması\Bilgiyarısması\obj\Debug\Bilgiyarısması.pdb
