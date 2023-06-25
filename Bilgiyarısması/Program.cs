@@ -13,7 +13,7 @@ namespace Bilgiyarısması
         static void Main(string[] args)
         {
             Yazar[] yazarlar = new Yazar[5];
-
+            //Deneme
             Yazar y1 = new Yazar();
             y1.isim = "Jack Londan";
             y1.eser = "Martin Eden";
